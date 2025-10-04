@@ -800,7 +800,7 @@ in the Software without restriction...
 ## 📧 Contact & Support
 
 ### Team Contact
-- **Project Lead**: [Name] - [email@example.com]
+- **Project Lead**: [sunil kumar swain] - [hi.world.9692@email@example.com]
 - **Technical Lead**: [Name] - [email@example.com]
 
 ### Getting Help
